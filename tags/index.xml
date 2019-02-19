@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Eoin Martino Grua</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Eoin Martino Grua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Nov 2018 11:46:56 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Health care</title>
+      <link>/tags/health-care/</link>
+      <pubDate>Sun, 18 Nov 2018 11:46:56 +0100</pubDate>
+      
+      <guid>/tags/health-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life Cycle Assessment</title>
+      <link>/tags/life-cycle-assessment/</link>
+      <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
+      
+      <guid>/tags/life-cycle-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalization</title>
+      <link>/tags/personalization/</link>
+      <pubDate>Sun, 18 Nov 2018 11:46:56 +0100</pubDate>
+      
+      <guid>/tags/personalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>/tags/reinforcement-learning/</link>
+      <pubDate>Sun, 18 Nov 2018 11:46:56 +0100</pubDate>
+      
+      <guid>/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainable Development Goals</title>
+      <link>/tags/sustainable-development-goals/</link>
+      <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
+      
+      <guid>/tags/sustainable-development-goals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>circular economy</title>
+      <link>/tags/circular-economy/</link>
+      <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
+      
+      <guid>/tags/circular-economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design for Attachment</title>
+      <link>/tags/design-for-attachment/</link>
+      <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
+      
+      <guid>/tags/design-for-attachment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>environmental impact</title>
+      <link>/tags/environmental-impact/</link>
+      <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
+      
+      <guid>/tags/environmental-impact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Eoin Martino Grua</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Eoin Martino Grua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 May 2018 11:26:43 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alice Frantz Schneider</title>
+      <link>/authors/alice-frantz-schneider/</link>
+      <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
+      
+      <guid>/authors/alice-frantz-schneider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diego Casado-Mansilla</title>
+      <link>/authors/diego-casado-mansilla/</link>
+      <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
+      
+      <guid>/authors/diego-casado-mansilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eoin Martino Grua</title>
+      <link>/authors/eoin-martino-grua/</link>
+      <pubDate>Sun, 18 Nov 2018 11:46:56 +0100</pubDate>
+      
+      <guid>/authors/eoin-martino-grua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lars Cordewener</title>
+      <link>/authors/lars-cordewener/</link>
+      <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
+      
+      <guid>/authors/lars-cordewener/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Hoogendoorn</title>
+      <link>/authors/mark-hoogendoorn/</link>
+      <pubDate>Sun, 18 Nov 2018 11:46:56 +0100</pubDate>
+      
+      <guid>/authors/mark-hoogendoorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sepideh Matinfar</title>
+      <link>/authors/sepideh-matinfar/</link>
+      <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
+      
+      <guid>/authors/sepideh-matinfar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
