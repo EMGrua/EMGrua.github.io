@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Eoin Martino Grua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Mar 2019 12:02:40 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 14:41:34 +0100</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CluStream-GT: Online Clustering for Personalization in the Health Domain</title>
+      <link>/publication/clustream-gt/</link>
+      <pubDate>Thu, 31 Oct 2019 14:41:34 +0100</pubDate>
+      
+      <guid>/publication/clustream-gt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-Adaptation in Mobile Apps: a Systematic Literature Study</title>

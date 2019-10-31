@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Eoin Martino Grua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Nov 2018 11:46:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 14:41:34 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Thu, 31 Oct 2019 14:41:34 +0100</pubDate>
+      
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Health care</title>
@@ -26,6 +35,15 @@
       <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
       
       <guid>/tags/life-cycle-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online clustering</title>
+      <link>/tags/online-clustering/</link>
+      <pubDate>Thu, 31 Oct 2019 14:41:34 +0100</pubDate>
+      
+      <guid>/tags/online-clustering/</guid>
       <description></description>
     </item>
     
@@ -57,6 +75,15 @@
     </item>
     
     <item>
+      <title>Time series</title>
+      <link>/tags/time-series/</link>
+      <pubDate>Thu, 31 Oct 2019 14:41:34 +0100</pubDate>
+      
+      <guid>/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>circular economy</title>
       <link>/tags/circular-economy/</link>
       <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
@@ -71,6 +98,15 @@
       <pubDate>Thu, 10 May 2018 11:26:43 +0100</pubDate>
       
       <guid>/tags/design-for-attachment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-Health</title>
+      <link>/tags/e-health/</link>
+      <pubDate>Thu, 31 Oct 2019 14:41:34 +0100</pubDate>
+      
+      <guid>/tags/e-health/</guid>
       <description></description>
     </item>
     

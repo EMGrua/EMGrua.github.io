@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ivano Malavolta on Eoin Martino Grua</title>
-    <link>/authors/ivano-malavolta/</link>
-    <description>Recent content in Ivano Malavolta on Eoin Martino Grua</description>
+    <title>Online clustering on Eoin Martino Grua</title>
+    <link>/tags/online-clustering/</link>
+    <description>Recent content in Online clustering on Eoin Martino Grua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Oct 2019 14:41:34 +0100</lastBuildDate>
     
-	<atom:link href="/authors/ivano-malavolta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/online-clustering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Thu, 31 Oct 2019 14:41:34 +0100</pubDate>
       
       <guid>/publication/clustream-gt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Adaptation in Mobile Apps: a Systematic Literature Study</title>
-      <link>/publication/slr-self-adaptive-apps/</link>
-      <pubDate>Fri, 29 Mar 2019 12:02:40 +0100</pubDate>
-      
-      <guid>/publication/slr-self-adaptive-apps/</guid>
       <description></description>
     </item>
     
