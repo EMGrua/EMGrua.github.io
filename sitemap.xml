@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/modelling/</loc>
+      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/clustream-gt/</loc>
       <lastmod>2019-10-31T14:41:34+01:00</lastmod>
     </url>
@@ -45,6 +53,15 @@
     
       <loc>/publication_types/1/</loc>
       <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -113,8 +130,17 @@
     
     <url>
     
+      <loc>/authors/eduardo-barbaro/</loc>
+      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/</loc>
-      <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -123,7 +149,16 @@
     <url>
     
       <loc>/authors/eoin-martino-grua/</loc>
-      <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/esther-weusthof/</loc>
+      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -141,7 +176,16 @@
     <url>
     
       <loc>/authors/ivano-malavolta/</loc>
-      <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jeroen-van-den-hoven/</loc>
+      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -169,6 +213,15 @@
     
       <loc>/authors/mark-hoogendoorn/</loc>
       <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mirjana-stercevic/</loc>
+      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -220,7 +273,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
     </url>
     
   

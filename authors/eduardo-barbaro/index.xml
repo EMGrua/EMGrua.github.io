@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Barbaro on Eoin Martino Grua</title>
+    <link>/authors/eduardo-barbaro/</link>
+    <description>Recent content in Eduardo Barbaro on Eoin Martino Grua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2020 10:02:12 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/eduardo-barbaro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modelling and predicting User Engagement in mobile applications</title>
+      <link>/publication/modelling/</link>
+      <pubDate>Thu, 16 Jan 2020 10:02:12 +0100</pubDate>
+      
+      <guid>/publication/modelling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
