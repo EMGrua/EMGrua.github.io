@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/investigating-correlation/</loc>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/modelling/</loc>
       <lastmod>2020-01-16T10:02:12+01:00</lastmod>
     </url>
@@ -52,7 +60,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -112,6 +120,15 @@
     
     <url>
     
+      <loc>/authors/christian-valladares/</loc>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/clustering/</loc>
       <lastmod>2019-10-31T14:41:34+01:00</lastmod>
       <priority>0</priority>
@@ -140,7 +157,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -149,7 +166,7 @@
     <url>
     
       <loc>/authors/eoin-martino-grua/</loc>
-      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -176,7 +193,7 @@
     <url>
     
       <loc>/authors/ivano-malavolta/</loc>
-      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -186,6 +203,15 @@
     
       <loc>/authors/jeroen-van-den-hoven/</loc>
       <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kwame-chan-jong-chu/</loc>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -220,8 +246,26 @@
     
     <url>
     
+      <loc>/authors/miguel-morales-exposito/</loc>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/mirjana-stercevic/</loc>
       <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/olivier-philippot/</loc>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -264,7 +308,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -273,7 +317,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
     </url>
     
   
@@ -289,6 +333,15 @@
     
       <loc>/tags/reinforcement-learning/</loc>
       <lastmod>2018-11-18T11:46:56+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sanjay-sheombar/</loc>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -316,6 +369,15 @@
     
       <loc>/tags/</loc>
       <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tanjina-islam/</loc>
+      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
       <priority>0</priority>
     </url>
     
