@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/slr-reinforcement-learning/</loc>
+      <lastmod>2020-04-23T13:59:31+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/investigating-correlation/</loc>
       <lastmod>2020-02-10T10:52:20+01:00</lastmod>
     </url>
@@ -69,7 +77,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <lastmod>2020-04-23T13:59:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -79,6 +87,15 @@
     
       <loc>/authors/a.e.-eiben/</loc>
       <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ali-el-hassouni/</loc>
+      <lastmod>2020-04-23T13:59:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -157,7 +174,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
+      <lastmod>2020-04-23T13:59:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -166,7 +183,7 @@
     <url>
     
       <loc>/authors/eoin-martino-grua/</loc>
-      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
+      <lastmod>2020-04-23T13:59:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -176,6 +193,15 @@
     
       <loc>/authors/esther-weusthof/</loc>
       <lastmod>2020-01-16T10:02:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/floris-den-hengst/</loc>
+      <lastmod>2020-04-23T13:59:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -238,7 +264,7 @@
     <url>
     
       <loc>/authors/mark-hoogendoorn/</loc>
-      <lastmod>2019-10-31T14:41:34+01:00</lastmod>
+      <lastmod>2020-04-23T13:59:31+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -317,7 +343,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2020-02-10T10:52:20+01:00</lastmod>
+      <lastmod>2020-04-23T13:59:31+02:00</lastmod>
     </url>
     
   
