@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martina De Sanctis on Eoin Martino Grua</title>
+    <link>/authors/martina-de-sanctis/</link>
+    <description>Recent content in Martina De Sanctis on Eoin Martino Grua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2020 11:54:08 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/martina-de-sanctis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Reference Architecture for Personalized and Self-adaptive e-Health Apps</title>
+      <link>/publication/reference-architecture/</link>
+      <pubDate>Thu, 24 Sep 2020 11:54:08 +0200</pubDate>
+      
+      <guid>/publication/reference-architecture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
